@@ -1,1 +1,0 @@
-SHUTDOWN /s /t 30 /c
